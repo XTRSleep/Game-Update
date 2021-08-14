@@ -72,11 +72,11 @@
     "levelandclass": "Level: {00} {01}",
     "name": "{00}",
     "points": "Points: {00}",
-    "stat0": "{00}: {01}",
+    "stat0": "Strength: {01}",
     "stat1": "{00}: {01}",
-    "stat2": "{00}: {01}",
-    "stat3": "{00}: {01}",
-    "stat4": "{00}: {01}",
+    "stat2": "Defence: {01}",
+    "stat3": "Magica Resistance: {01}",
+    "stat4": "Stamina: {01}",
     "stats": "Stats:",
     "title": "Character"
   },
@@ -555,7 +555,7 @@
     "username": "Username:"
   },
   "Main": {
-    "gamename": "Intersect Client"
+    "gamename": "Realms of Endoris"
   },
   "MainMenu": {
     "credits": "Credits",
@@ -603,7 +603,7 @@
   },
   "QuestLog": {
     "abandon": "Abandon",
-    "abandonprompt": "Are you sure that you want to quit the quest \"{00}\"?",
+    "abandonprompt": "Are you sure that you want to abandon this quest \"{00}\"?",
     "abandontitle": "Abandon Quest: {00}",
     "back": "Back",
     "completed": "Quest Completed",

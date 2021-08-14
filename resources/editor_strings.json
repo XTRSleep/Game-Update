@@ -205,11 +205,11 @@
     },
     "exp": "Experience",
     "stats": {
-      "0": "Attack",
+      "0": "Strenght",
       "1": "Ability Power",
       "2": "Defense",
-      "3": "Magic Resist",
-      "4": "Speed"
+      "3": "Magica Resistance",
+      "4": "Haste"
     },
     "vitals": {
       "0": "Health",

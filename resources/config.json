@@ -1,6 +1,6 @@
 ﻿{
   "Host": "82.176.11.168",
-  "Port": 5400,
+  "Port": 5401,
   "GameFont": "sourcesansproblack",
   "EntityNameFont": "sourcesansproblack",
   "ChatBubbleFont": "sourcesansproblack",
@@ -10,5 +10,5 @@
   "MenuMusic": "RPG-Theme_v001_Looping.ogg",
   "MenuBackground": "wereld.png",
   "IntroImages": [],
-  "UpdateUrl": "https://github.com/XTRSleep/Game-Update.git"
+  "UpdateUrl": "https://github.com/XTRSleep/Game-Update"
 }
